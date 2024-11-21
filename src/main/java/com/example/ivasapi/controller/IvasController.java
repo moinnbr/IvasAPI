@@ -1,6 +1,6 @@
 package com.example.ivasapi.controller;
 
-import com.example.ivasapi.entity.IvasRecord;
+import com.example.ivasapi.model.IvasRecord;
 import com.example.ivasapi.service.IvasService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

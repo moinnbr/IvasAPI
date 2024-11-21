@@ -1,6 +1,7 @@
 //package com.example.ivasapi.model;
 
-package com.example.ivasapi.entity;
+package com.example.ivasapi.model;
+
 
 import jakarta.persistence.*;
 
